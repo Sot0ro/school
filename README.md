@@ -1,2 +1,2 @@
 # school
-School opdrachten
+Hello my friend, my name is Yuri Tsekhanovetsky.
